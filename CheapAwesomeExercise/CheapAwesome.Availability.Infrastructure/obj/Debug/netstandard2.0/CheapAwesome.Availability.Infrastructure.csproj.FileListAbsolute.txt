@@ -1,0 +1,11 @@
+C:\Users\rsolca\source\repos\CheapAwesomeExercise\CheapAwesome.Availability.Infrastructure\bin\Debug\netstandard2.0\CheapAwesome.Availability.Infrastructure.deps.json
+C:\Users\rsolca\source\repos\CheapAwesomeExercise\CheapAwesome.Availability.Infrastructure\bin\Debug\netstandard2.0\CheapAwesome.Availability.Infrastructure.dll
+C:\Users\rsolca\source\repos\CheapAwesomeExercise\CheapAwesome.Availability.Infrastructure\bin\Debug\netstandard2.0\CheapAwesome.Availability.Infrastructure.pdb
+C:\Users\rsolca\source\repos\CheapAwesomeExercise\CheapAwesome.Availability.Infrastructure\bin\Debug\netstandard2.0\CheapAwesome.Availability.Core.dll
+C:\Users\rsolca\source\repos\CheapAwesomeExercise\CheapAwesome.Availability.Infrastructure\bin\Debug\netstandard2.0\CheapAwesome.Availability.Core.pdb
+C:\Users\rsolca\source\repos\CheapAwesomeExercise\CheapAwesome.Availability.Infrastructure\obj\Debug\netstandard2.0\CheapAwesome.Availability.Infrastructure.csprojAssemblyReference.cache
+C:\Users\rsolca\source\repos\CheapAwesomeExercise\CheapAwesome.Availability.Infrastructure\obj\Debug\netstandard2.0\CheapAwesome.Availability.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\rsolca\source\repos\CheapAwesomeExercise\CheapAwesome.Availability.Infrastructure\obj\Debug\netstandard2.0\CheapAwesome.Availability.Infrastructure.AssemblyInfo.cs
+C:\Users\rsolca\source\repos\CheapAwesomeExercise\CheapAwesome.Availability.Infrastructure\obj\Debug\netstandard2.0\CheapAwesome.Availability.Infrastructure.csproj.CopyComplete
+C:\Users\rsolca\source\repos\CheapAwesomeExercise\CheapAwesome.Availability.Infrastructure\obj\Debug\netstandard2.0\CheapAwesome.Availability.Infrastructure.dll
+C:\Users\rsolca\source\repos\CheapAwesomeExercise\CheapAwesome.Availability.Infrastructure\obj\Debug\netstandard2.0\CheapAwesome.Availability.Infrastructure.pdb

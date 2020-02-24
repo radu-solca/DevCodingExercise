@@ -1,0 +1,7 @@
+C:\Users\rsolca\source\repos\CheapAwesomeExercise\CheapAwesome.Availability.Core\bin\Debug\netstandard2.0\CheapAwesome.Availability.Core.deps.json
+C:\Users\rsolca\source\repos\CheapAwesomeExercise\CheapAwesome.Availability.Core\bin\Debug\netstandard2.0\CheapAwesome.Availability.Core.dll
+C:\Users\rsolca\source\repos\CheapAwesomeExercise\CheapAwesome.Availability.Core\bin\Debug\netstandard2.0\CheapAwesome.Availability.Core.pdb
+C:\Users\rsolca\source\repos\CheapAwesomeExercise\CheapAwesome.Availability.Core\obj\Debug\netstandard2.0\CheapAwesome.Availability.Core.AssemblyInfoInputs.cache
+C:\Users\rsolca\source\repos\CheapAwesomeExercise\CheapAwesome.Availability.Core\obj\Debug\netstandard2.0\CheapAwesome.Availability.Core.AssemblyInfo.cs
+C:\Users\rsolca\source\repos\CheapAwesomeExercise\CheapAwesome.Availability.Core\obj\Debug\netstandard2.0\CheapAwesome.Availability.Core.dll
+C:\Users\rsolca\source\repos\CheapAwesomeExercise\CheapAwesome.Availability.Core\obj\Debug\netstandard2.0\CheapAwesome.Availability.Core.pdb
